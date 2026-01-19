@@ -1,0 +1,6 @@
+data/
+venv_qwen310/
+__pycache__/
+*.pyc
+notebooks/clip_vision.pt
+
